@@ -4,6 +4,10 @@ Projeto realizado individualmente utilizando os aprendizados do bloco 5 onde apr
 
 Nele foi necessário criar uma lista de tarefas a fazer onde era possível marcar como concluídas, excluir as tarefas concluídas entre outras funções.
 
+## 
+
+![](https://github.com/lazaroor/to-do-list/blob/main/Funcionamento-pagina.gif)
+
 ##
 
 ![](https://github.com/lazaroor/to-do-list/blob/main/To-do-list.png?raw=true)
